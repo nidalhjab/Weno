@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Weno - Local Product Search
+
+Weno is a [Next.js](https://nextjs.org) application that helps you find products in your current location. Simply search for what you need, and Weno will show you where to find it nearby.
+
+## Features
+
+- **Location-based search**: Find products in your immediate area
+- **Real-time results**: Get up-to-date information on product availability
+- **User-friendly interface**: Simple and intuitive design for easy navigation
+- **Mobile responsive**: Use on any device, anywhere you go
 
 ## Getting Started
 
